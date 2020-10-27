@@ -1,2 +1,2 @@
 # ZSH Installer
-It is a Automation Script to install zsh ohmyzsh on Termux
+It is an Automation Script to install zsh ohmyzsh on Termux
